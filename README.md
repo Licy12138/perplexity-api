@@ -1,3 +1,7 @@
+## 使用前注意
+
+该插件可能需要打开代理才能使用，不然可能会出现无法访问pplx的问题！
+
 ## Perplexity-ai-API 这是什么？
 
 一个在互联网进行搜索的插件，[Perplexity](https://www.perplexity.ai/hub/blog/introducing-pplx-api)(以下简称pplx)，使用Python API调用，具体方法查看[perplexity ai文档](https://docs.perplexity.ai/home)
