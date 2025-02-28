@@ -2,7 +2,7 @@
 
 `Bug？`：该插件可能需要打开代理才能使用，不然可能会出现无法访问pplx的问题！
 
-Perplexity现在可以通过[New-api](https://github.com/Calcium-Ion/new-api)（[OneAPI](https://github.com/songquanpeng/one-api)二开版）接入到Langbot，具体可以查看[这里](https://github.com/Calcium-Ion/new-api)
+Perplexity现在可以通过[One-hub](https://github.com/MartialBE/one-hub)以Openai的方式接入到Langbot，具体可以查看[这里](https://github.com/MartialBE/one-hub)
 
 ## Perplexity-ai-API 这是什么？
 
